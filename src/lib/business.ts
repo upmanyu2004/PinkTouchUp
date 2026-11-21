@@ -17,8 +17,8 @@ export const BUSINESS = {
   country: "India",
 
   /* PLACEHOLDER — replace with the salon's real phone number */
-  phoneDisplay: "+91 90000 00000",
-  phoneRaw: "919000000000", // used for tel: and wa.me links
+  phoneDisplay: "+91 89496 39982",
+  phoneRaw: "9189496 39982", // used for tel: and wa.me links
 
   /* PLACEHOLDER — replace with the exact street address */
   addressLine: "Jaipur, Rajasthan — the Pink City",
