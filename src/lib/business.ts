@@ -15,7 +15,7 @@ export const BUSINESS = {
   city: "Jaipur",
   region: "Rajasthan",
   country: "India",
-
+  
   /* PLACEHOLDER — replace with the salon's real phone number */
   phoneDisplay: "+91 89496 39982",
   phoneRaw: "9189496 39982", // used for tel: and wa.me links
